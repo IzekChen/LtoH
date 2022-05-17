@@ -1,8 +1,8 @@
 # LtoH
 
-Tasks you need to complete on this learn to hire session. \n
-If you cannot complete all task, provide the details where did you stuck and how did you investigate the issue. \n
-And what is next you will try in this situation, the more details the better \n
+Tasks you need to complete on this learn to hire session. 
+If you cannot complete all task, provide the details where did you stuck and how did you investigate the issue. 
+And what is next you will try in this situation, the more details the better.
 
 #### 1.Set up VPC-Based Elasticsearch
 
