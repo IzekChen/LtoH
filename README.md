@@ -4,11 +4,11 @@ Tasks you need to complete on this learn to hire session.
 If you cannot complete all task, provide the details where did you stuck and how did you investigate the issue.  
 And what is next you will try in this situation, the more details the better.  
 
-#### 1.Set up VPC-Based Elasticsearch
+#### 1. Set up VPC-Based Elasticsearch  
 
-https://docs.aws.amazon.com/opensearch-service/latest/developerguide/vpc.html
+https://docs.aws.amazon.com/opensearch-service/latest/developerguide/vpc.html  
 
-#### 2. Setup reverse proxy via nginx to Elasticsearch
+#### 2. Setup reverse proxy via nginx to Elasticsearch  
 
 ```
 #sudo amazon-linux-extras install nginx1
@@ -62,10 +62,10 @@ server {
 }
 ```
 
-https://aws.amazon.com/premiumsupport/knowledge-center/opensearch-outside-vpc-nginx/
+https://aws.amazon.com/premiumsupport/knowledge-center/opensearch-outside-vpc-nginx/  
 
 
-#### 3. Setup index template with 3 primary shards and 2 replicas
+#### 3. Setup index template with 3 primary shards and 2 replicas  
 
 Use the command to check the current index setting.
 
@@ -75,13 +75,14 @@ GET /<index name>
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules.html
 https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-templates-v1.html
+  
 
-#### 4. Process amazon.book.json dataset and push to Elasticsearch
-Please find the file amazon.book.json file from the folder.
-You can either curl, logstash or any language to process the file, then send it to Elasticsearch you create.
+#### 4. Process amazon.book.json dataset and push to Elasticsearch  
+Please find the file amazon.book.json file from the folder.  
+You can either curl, logstash or any language to process the file, then send it to Elasticsearch you create.  
 
 
-#### 5. Create kibana visualization and dashboard 
+#### 5. Create kibana visualization and dashboard  
 Try to create one or two visualization, and create one dashboard that obtain the visulization you create.
 
  
