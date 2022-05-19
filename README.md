@@ -86,5 +86,10 @@ You can either curl, logstash or any language to process the file, then send it 
 Try to create one or two visualization, and create one dashboard that obtain the visulization you create.
 
  
+Once when you finish the setup, please send the email with the details to izekchen@amazon.com
+The details will include:
+1. Dashboard URL
+2. Detail of how you process the data
+3. What problem you facing during the setup and how you get through this
 
 
