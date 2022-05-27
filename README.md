@@ -25,6 +25,8 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-template
 Please find the file amazon.book.json file from the folder.  
 You can either curl, logstash or any language to process the file, then send it to Elasticsearch you create.  
 
+https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html
+
 
 #### 4. Create kibana visualization and dashboard  
 Try to create one or two visualization, and create one dashboard that obtain the visulization you create.
