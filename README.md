@@ -26,6 +26,8 @@ Please find the file amazon.book.json file from the folder.
 You can either curl, logstash or any language to process the file, then send it to Elasticsearch you create.  
 
 https://docs.aws.amazon.com/opensearch-service/latest/developerguide/request-signing.html
+https://github.com/awsdocs/amazon-opensearch-service-developer-guide
+
 
 
 #### 4. Create kibana visualization and dashboard  
