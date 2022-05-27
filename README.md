@@ -33,6 +33,12 @@ https://github.com/awsdocs/amazon-opensearch-service-developer-guide
 #### 4. Create kibana visualization and dashboard  
 Try to create one or two visualization, and create one dashboard that obtain the visulization you create.
 
+
+#### 5. Using the data "opensearch_dashboards_sample_data_flights" and find out how many flights have delay
+#### write an ES query for this request
+
+
+
  
 Once when you finish the setup, please send the email with the details to izekchen@amazon.com
 
