@@ -11,7 +11,7 @@ https://docs.aws.amazon.com/opensearch-service/latest/developerguide/vpc.html
 
 #### 2. Setup index template with 3 primary shards and 2 replicas  
 
-Use the command to check the current index setting.
+Use the command to check the current index setting. And record the command in the email
 
 ```
 GET /<index name>
@@ -43,8 +43,10 @@ Try to create one or two visualization, and create one dashboard that obtain the
 Once when you finish the setup, please send the email with the details to izekchen@amazon.com
 
 The details need to be include in the email:
-1. Screenshot of the index settings and the screenshot of the dashboard you created.
-2. Details of how you process the data
-3. What problem you facing during the entire practice and how you solve it
+1. The query you use to setup the index settings
+2. Screenshot of the index settings and the screenshot of the dashboard you created.
+3. Details of how you process the data
+4. The query you use to find out the total of flight delay
+5. What problem you facing during the entire practice and how you solve it
 
 
